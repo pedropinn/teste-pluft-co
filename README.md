@@ -8,9 +8,9 @@ Criar DB atrarvéz do mongo via docker, comandos:
  - docker pull mongo
  - docker run --name NOME-p 27017:27017 -d mongo
  
->Iniciar mongo pausado:
+>Iniciar containers pausado:
 > - docker start NOME
->- docker ps -a (verificar containers pausados) 
+>- docker ps -a 
 
 ### Executar na pasta api
  - npm rum start
