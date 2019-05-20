@@ -1,0 +1,118 @@
+.restaurant-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #005555;
+    border: 1px solid #88888860;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.restaurant-info strong {
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 5px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.restaurant-info h1 {
+    color: #dfdfdf;
+    font-size: 16px;
+    margin-top: 15px;
+    line-height: 10px;
+}
+
+.restaurant-info h2 {
+    font-size: 13px;
+    color: #969685;
+    margin-top: 10px;
+    line-height: 10px;
+}
+
+.restaurant-info p {
+    font-size: 13px;
+    color: #969685;
+    margin-top: 5px;
+    line-height: 10px;
+}
+
+.cardapio-info {
+    max-width: 650px;
+    margin: 15px auto 0;
+    padding: 0 25px;
+}
+
+.cardapio-info article {
+    background: #002020;
+    color: #fff;
+    border: 1px solid #d1d1d1;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.cardapio-info article p {
+    font-size: 16px;
+    color: #999999;
+
+}
+
+
+/* botão comprar 
+.cardapio-info article a {
+   height: 42px;
+   border-radius: 5px;
+   border: 2px solid #fb5c61;
+   background: none;
+   margin-top: 10px;
+   color: #fb5c61;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   transition: all 0.5s
+}
+.restaurant-info article a:hover {
+   
+    background: #fb5c61;
+    color: #fff
+ }
+
+ .restaurant-info .actions {
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 20px;
+ }
+
+ .cardapio-info .actions button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #fb5c61;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s
+}
+
+.cardapio-info .actions button:disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+
+
+.cardapio-info .actions button:hover {
+    opacity: 0.7;
+}
+
+
+.cardapio-info .actions button[disabled]:disabled {
+    opacity: 0.5;
+    
+}
+
+*/
