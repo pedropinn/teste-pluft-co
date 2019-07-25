@@ -2,7 +2,7 @@
 Sistema desenvolvido como teste, para vaga front-end da empresa Pluft-co, deve exibir restaurantes próximos ao usuário, e será capaz de realizar pedido pela aplicação.
 
 # Dependências
-Criar DB atrarvéz do mongo via docker, comandos:
+Criar DB através do mongoDB via docker:
 
 - docker pull mongo
 - docker run --name NOME -p 27017:27017 -d mongo
